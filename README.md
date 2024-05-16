@@ -6,7 +6,7 @@ This is simple Hangman game implemented in Python programming language. Guess th
 
 Before running the game, make sure you have NLTK (Natural Language Toolkit) installed on your system. You can install it with pip:
 
-"pip install nltk"
+`pip install nltk`
 
 ## Installation
 
@@ -20,7 +20,7 @@ Before running the game, make sure you have NLTK (Natural Language Toolkit) inst
 
 Run the code with executing the following command:
 
-"python3 hangman.py"
+`python3 hangman.py`
 
 Follow the on-screen instructions to play the game.
 
